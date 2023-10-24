@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="applaication">
+      <UniqueIdentifier>{f6548298-8c21-4213-82a1-dc35168a89e8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>applaication</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
